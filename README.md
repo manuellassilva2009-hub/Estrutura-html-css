@@ -1,7 +1,7 @@
 ## Estrutura Básica de HTML5 e CSS3
 professor: Jansen K Cara
 Turma: DS1A
-Aluno:  KEmily de Almeida Silva
+Aluno:  Manuella de Souza Silva
 
 ### Objetivo
 Desenvolver o nosso conhecimento sw HTML e CSS
@@ -35,11 +35,11 @@ Desenvolver o nosso conhecimento sw HTML e CSS
     <main>
         <section id="Sobre">
             <h2>Sobre mim</h2>
-            <p>Olá! Meu nome é KEmily de Almeida Silva, e sou um estudante que CSS e HTML</p>
+            <p>Olá! Meu nome é Manuella de Souza Silva, e sou um estudante que CSS e HTML</p>
         </section>
     </main>
     <footer>
-        <p>$copy; 2026 KEmily de Almeida Silva. Todos os direitos reservados</p>
+        <p>$copy; 2026 Manuella de Souza Silva. Todos os direitos reservados</p>
     </footer>
 </body>
 
